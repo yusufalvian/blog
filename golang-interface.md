@@ -53,6 +53,3 @@ if !ok {
 fmt.Println(data)
 ```
 
-
-#### reference 
-- 
