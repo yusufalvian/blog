@@ -1,4 +1,6 @@
-2fa bisa dilakukan menggunakan authenticator app seperti google atau microsoft authenticator app. untuk bisa lebih memahami bagaimana cara kerjanya akan saya jelaskan melalui skenario berikut. 
+Last Update : 2024-09-08
+
+2fa (factor authentication) bisa dilakukan menggunakan authenticator app seperti google atau microsoft authenticator app. untuk bisa lebih memahami bagaimana cara kerjanya akan saya jelaskan melalui skenario berikut. 
 
 sebagai contoh kita ingin mengaktifkan 2FA github. authenticator apps yang kita gunakan sebut saja authapp. 
 - ketika kita ingin mengaktifkan 2FA, github akan generate QRCode yang mana QRCode ini adalah secret key 
