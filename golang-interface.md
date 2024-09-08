@@ -1,3 +1,5 @@
+Last Update : 2024-09-08
+
 interface adalah blueprint. ia mendefinisikan struktur, tanpa implementasi. contoh interface 
 ```go
 type TheString interface {
